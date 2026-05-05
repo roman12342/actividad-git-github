@@ -31,3 +31,8 @@ Yo creo que para solucionar este conflicto deberian tener una buena comunicacion
 Portafolio digital: Tu perfil de GitHub funciona como un portafolio público de tu trabajo. ¿Qué tipo de proyectos te gustaría tener en tu perfil para mostrar tus habilidades? ¿Cómo crees que esto puede influir en tus oportunidades laborales futuras?
 
 Por el momento me gustaria tener un perfil orientado en el desarrollo de paginas/aplicaciones WEB.A mi parecer, esto puede beneficiar bastante a los que estamos recien entrando al mundo de la programacion, al poder mostrar con facilidad a los demas nuestros proyectos creados, y asi demostrar mi forma y habilidades de trabajo.
+
+Código abierto: Millones de proyectos en GitHub son de código abierto (cualquiera puede ver y contribuir al código). ¿Qué beneficios y riesgos identificas en compartir tu código públicamente? ¿Te sentirías cómodo compartiendo tus proyectos escolares de esta manera?
+
+Algunos de los beneficios que yo identifico son: participacion de personas de cualquier parte del mundo, y como ya lo mencionamos, puede servirte como un portafolio virtual; Y desventajas que yo noto, podrian ser: al estar en la web, cualquiera podria acceder y copiar tu trabajo y difundirlo como suyo.
+Proyectos escolares, no tendria problema en subirlos publicamente, en cambio proyectos personales, si estaria en desacuerdo.
