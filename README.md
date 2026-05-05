@@ -67,3 +67,8 @@ Tercero: crearia los archivos con sus extenciones y nombres correspondientes.
 Cuarto: empezaria programar.
 Quinto: en cada avance haria un commit al final del dia para documentar mi progreso.
 Sexto: una vez finalizado el proyecto lo subiria a GitHub. 
+
+Aprendizaje continuo: Git y GitHub tienen muchas funcionalidades avanzadas que van más allá del curso básico (GitHub Actions, GitHub Pages, webhooks, etc.). ¿Qué características adicionales te gustaría explorar y por qué? ¿Cómo planeas continuar tu aprendizaje después de este curso?
+
+Me gustaria aprender la seccion de GitPages para poder subir mis proyectos personales a internet sin un cobro adicional.
+Tengo pensado seguir estudiando en semanas que no este tan cargado con trabajos de la escuela, e incluso pagar un curso al terminar la escuela, en las vaciones de verano precisamente, y seguir aprendiendo por la rama que me interesa que es la creacion de paginas web, y poder trabajar de manera parcial de esto mientras estudio en la universidad.
