@@ -46,3 +46,7 @@ Errores y reversión: Una de las grandes ventajas de Git es poder "volver atrás
 
 Yo creo que esto va depender de la persona, a mi por ejemplo si me parece que este beneficio me ayudaria a experimentar y aprender, ya que no importa si hago un cambio que pueda romper todo, simplemente podria "volver atras" y seguir experimentando; Esto podria quitar el miedo de algunas personas de cambiar algo y ser juzgado por que ya no funciona el proyecto.
 Pero en cambio para las personas que deciden simplemente hacer todas las tareas con el uso de IA mal implementada, creo que si podrian ser menos cuidadosos con los cambios, al no tener consecuencias por hacer x cambios, podrian poner cualquier cosa hasta que "funcione".
+
+Documentación vs. Código: El curso menciona la importancia de los archivos README y la documentación. Algunos desarrolladores argumentan que "el código debe ser autodescriptivo" y que demasiada documentación es innecesaria. ¿Qué opinas? ¿Dónde crees que está el balance correcto?
+
+Yo creo que el curso y ese tipo de personas tienen razon hasta cierto punto, ya que el codigo si deberia ser autodescriptivo, pero en mi parecer, deberia haber una documentacion en funciones que sean "complejas" para que asi cualquier persona pueda entender tu codigo.
