@@ -18,3 +18,8 @@ Si, se puede usar Git sin GitHub, pero como lo ya mencionado antes, al hacerlo, 
 Branches (ramas):El concepto de trabajar en ramas paralelas puede parecer confuso al principio. ¿En qué situaciones de tu vida estudiantil o personal te gustaría poder "crear una rama" para experimentar sin afectar tu "rama principal"? Describe un ejemplo concreto.
 
 Me gustaria crear una rama secundaria para poder experimentar y/o optimizar partes de un proyecto, por ejemplo: El año pasado cree un sistema para una biblioteca utilizando C#, en este proyecto tuve que probar muchas cosas nuevas, e ir probando y cambiando el codigo repetidamente. Con Git/GitHub podria haber guardado un progreso funcional y de esa base crear una rama e ir experimentando, y asi, aunque genere cambios, siempre tendria el codigo funcional a disposicion. 
+
+Colaboración remota: GitHub permite que personas de diferentes partes del mundo colaboren en el mismo proyecto. ¿Qué ventajas y desafíos identificas en este tipo de colaboración? ¿Cómo crees que esto cambia la forma de trabajar en equipo comparado con trabajar todos en el mismo lugar físico?
+
+La ventaja principal que identifico es que no deben estar todos en el mismo sitio para trabajar en conjunto, y que no estan obligados a trabajar todos al mismo tiempo, uno puede trabajar de 8 AM a 2 PM y los demas a las 2 PM a 7 PM sin tener ningun tipo de problemas
+Esto aumenta la comodidad de los trabajadores al no tener que estar en el mismo sitio, ni trabjar en el mismo horario, cada uno podria decidir cuando quiere trabajar.
