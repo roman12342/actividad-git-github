@@ -27,3 +27,7 @@ Esto aumenta la comodidad de los trabajadores al no tener que estar en el mismo 
 Resolución de conflictos: Cuando dos personas modifican el mismo archivo, Git detecta un "conflicto" que debe resolverse manualmente. ¿Qué habilidades personales y técnicas crees que necesitas desarrollar para resolver conflictos de manera efectiva en un equipo de desarrollo?
 
 Yo creo que para solucionar este conflicto deberian tener una buena comunicacion para poder distinguir cual rama trabaja cierto desarrollador y cual el otro desarrollador, y asi no modificar una rama erronea.
+
+Portafolio digital: Tu perfil de GitHub funciona como un portafolio público de tu trabajo. ¿Qué tipo de proyectos te gustaría tener en tu perfil para mostrar tus habilidades? ¿Cómo crees que esto puede influir en tus oportunidades laborales futuras?
+
+Por el momento me gustaria tener un perfil orientado en el desarrollo de paginas/aplicaciones WEB.A mi parecer, esto puede beneficiar bastante a los que estamos recien entrando al mundo de la programacion, al poder mostrar con facilidad a los demas nuestros proyectos creados, y asi demostrar mi forma y habilidades de trabajo.
