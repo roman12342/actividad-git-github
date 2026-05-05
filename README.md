@@ -56,3 +56,14 @@ Dependencia de plataformas: GitHub es actualmente la plataforma más popular, pe
 Esto puede generar un problema con la oberanía y el control de datos: Al usar una plataforma comercial, tus datos están sujetos a sus Términos de Servicio y a la legislación del país donde reside la empresa (EE. UU.).
 La unica alternativas que conozco se llama GitLab.
 Yo creo que depender de una sola herramienta siempre va ser peligroso, si el dia de mañana GitHub deja de funcionar de repente, o por problemas del servicio quieres cambiarte, no tendrias el mismo "apoyo" que puede darte GitHub en el tema de "Portafolio digital " ya que a la que deseas migrarte no es tan conocido por ejemplo.
+
+Integración con tu flujo de trabajo: Piensa en los proyectos que desarrollarás durante este año escolar. ¿Cómo integrarías Git y GitHub en tu proceso de trabajo diario? Describe un flujo de trabajo concreto desde que comienzas un proyecto hasta que lo entregas.
+
+Yo en los trabajos que impliquen programacion, los subiria a GitHub a todos.
+Flujo de trabajos individuales:
+Primero: crearia el repositorio con Git en local.
+Segundo: analizaria el proyecto y determinaria que funciones necesito y que estructura.
+Tercero: crearia los archivos con sus extenciones y nombres correspondientes.
+Cuarto: empezaria programar.
+Quinto: en cada avance haria un commit al final del dia para documentar mi progreso.
+Sexto: una vez finalizado el proyecto lo subiria a GitHub. 
