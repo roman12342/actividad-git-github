@@ -23,3 +23,7 @@ Colaboración remota: GitHub permite que personas de diferentes partes del mundo
 
 La ventaja principal que identifico es que no deben estar todos en el mismo sitio para trabajar en conjunto, y que no estan obligados a trabajar todos al mismo tiempo, uno puede trabajar de 8 AM a 2 PM y los demas a las 2 PM a 7 PM sin tener ningun tipo de problemas
 Esto aumenta la comodidad de los trabajadores al no tener que estar en el mismo sitio, ni trabjar en el mismo horario, cada uno podria decidir cuando quiere trabajar.
+
+Resolución de conflictos: Cuando dos personas modifican el mismo archivo, Git detecta un "conflicto" que debe resolverse manualmente. ¿Qué habilidades personales y técnicas crees que necesitas desarrollar para resolver conflictos de manera efectiva en un equipo de desarrollo?
+
+Yo creo que para solucionar este conflicto deberian tener una buena comunicacion para poder distinguir cual rama trabaja cierto desarrollador y cual el otro desarrollador, y asi no modificar una rama erronea.
