@@ -77,3 +77,5 @@ Impacto en tu carrera: Como futuro Técnico en Computación, ¿cómo crees que d
 
 Yo creo que esto afectaria drasticamente y positivamente mis oportunidades profesionales, ya que estas herramientas son fundamentales en el entono laboral por su beneficio de poder trabajar en cualquier lugar y su posibilidad de trabajar en cualquier horario, y por ultimo, por la documentacion de cada commit, esto ayudaria al encargado de ver quien es el que realmente esta trabajando y quien no.
 Yo creo que deberias seguir estudiando, pero dependiendo la rama a la cual quieras dirigirte, en mi caso que es el desarrolo de paginas web, me interesaria especializarme en un lenguaje y uno de sus framework correspondiente, para la generacion de apis, tener una buena optimizacion, etc. 
+
+Fecha de entrega: 5 mayo 2026
