@@ -50,3 +50,9 @@ Pero en cambio para las personas que deciden simplemente hacer todas las tareas 
 Documentación vs. Código: El curso menciona la importancia de los archivos README y la documentación. Algunos desarrolladores argumentan que "el código debe ser autodescriptivo" y que demasiada documentación es innecesaria. ¿Qué opinas? ¿Dónde crees que está el balance correcto?
 
 Yo creo que el curso y ese tipo de personas tienen razon hasta cierto punto, ya que el codigo si deberia ser autodescriptivo, pero en mi parecer, deberia haber una documentacion en funciones que sean "complejas" para que asi cualquier persona pueda entender tu codigo.
+
+Dependencia de plataformas: GitHub es actualmente la plataforma más popular, pero es propiedad de Microsoft. ¿Qué implicaciones tiene depender de una plataforma comercial para alojar proyectos educativos y de código abierto? ¿Conoces alternativas? ¿Deberíamos preocuparnos por esto?
+
+Esto puede generar un problema con la oberanía y el control de datos: Al usar una plataforma comercial, tus datos están sujetos a sus Términos de Servicio y a la legislación del país donde reside la empresa (EE. UU.).
+La unica alternativas que conozco se llama GitLab.
+Yo creo que depender de una sola herramienta siempre va ser peligroso, si el dia de mañana GitHub deja de funcionar de repente, o por problemas del servicio quieres cambiarte, no tendrias el mismo "apoyo" que puede darte GitHub en el tema de "Portafolio digital " ya que a la que deseas migrarte no es tan conocido por ejemplo.
