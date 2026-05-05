@@ -36,3 +36,8 @@ Código abierto: Millones de proyectos en GitHub son de código abierto (cualqui
 
 Algunos de los beneficios que yo identifico son: participacion de personas de cualquier parte del mundo, y como ya lo mencionamos, puede servirte como un portafolio virtual; Y desventajas que yo noto, podrian ser: al estar en la web, cualquiera podria acceder y copiar tu trabajo y difundirlo como suyo.
 Proyectos escolares, no tendria problema en subirlos publicamente, en cambio proyectos personales, si estaria en desacuerdo.
+
+Historial de cambios:Git mantiene un registro completo de todos los cambios realizados en un proyecto, incluyendo quién hizo cada cambio y cuándo. ¿Cómo crees que esto afecta la responsabilidad individual en un equipo? ¿Es esto positivo o puede generar presión adicional?
+
+La responsabilidad individual aumentaria drasticamente al estar registrado sus aportes.
+Yo creo que esto genera una presion necesaria en el entorno de trabajo, al existir esta mecanica, el contribuyente, debe obligatoriamente revisar su codigo antes de subirlo, para no tener problemas con los jefes
