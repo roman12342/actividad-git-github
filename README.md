@@ -41,3 +41,8 @@ Historial de cambios:Git mantiene un registro completo de todos los cambios real
 
 La responsabilidad individual aumentaria drasticamente al estar registrado sus aportes.
 Yo creo que esto genera una presion necesaria en el entorno de trabajo, al existir esta mecanica, el contribuyente, debe obligatoriamente revisar su codigo antes de subirlo, para no tener problemas con los jefes
+
+Errores y reversión: Una de las grandes ventajas de Git es poder "volver atrás" cuando algo sale mal. ¿Crees que esta capacidad puede fomentar la experimentación y el aprendizaje, o podría llevar a ser menos cuidadoso al hacer cambios? Argumenta tu posición.
+
+Yo creo que esto va depender de la persona, a mi por ejemplo si me parece que este beneficio me ayudaria a experimentar y aprender, ya que no importa si hago un cambio que pueda romper todo, simplemente podria "volver atras" y seguir experimentando; Esto podria quitar el miedo de algunas personas de cambiar algo y ser juzgado por que ya no funciona el proyecto.
+Pero en cambio para las personas que deciden simplemente hacer todas las tareas con el uso de IA mal implementada, creo que si podrian ser menos cuidadosos con los cambios, al no tener consecuencias por hacer x cambios, podrian poner cualquier cosa hasta que "funcione".
